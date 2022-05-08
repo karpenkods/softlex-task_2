@@ -1,0 +1,39 @@
+@import './index.scss';
+
+.custom-gutter-horizontal:hover {
+  cursor: col-resize;
+}
+
+.__dbk__child-wrapper {
+  box-shadow: 5px 5px 10px 0px rgba(34, 60, 80, 0.4);
+}
+
+.__dbk__dragger.Horizontal {
+  width: 3px;
+  height: 80vh;
+  transition: 0.3s;
+}
+
+.__dbk__gutter.Dark {
+  background: $colorWetAsphalt;
+  opacity: 0.6;
+}
+
+.__dbk__child-wrapper {
+  min-width: 40%;
+}
+
+@media (max-width: 768px) {
+  .__dbk__container.Horizontal {
+    flex-direction: column;
+  }
+
+  .__dbk__dragger.Horizontal {
+    width: 100vw;
+    height: 3px;
+  }
+
+  .__dbk__child-wrapper {
+    min-width: 100%;
+  }
+}

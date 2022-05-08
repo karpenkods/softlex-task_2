@@ -1,0 +1,41 @@
+@import '../../index.scss';
+@import url('~leaflet/dist/leaflet.css');
+
+.leaflet-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+  width: 110%;
+  margin-bottom: 30px;
+  font-family: 'Roboto', sans-serif;
+  box-shadow: 5px 5px 10px 0px rgba(34, 60, 80, 0.4);
+}
+
+.leaflet-routing-alternatives-container {
+  display: none;
+}
+
+.leaflet-control-attribution {
+  display: none;
+}
+
+.leaflet-marker-draggable {
+  display: none;
+}
+
+.leaflet-marker-icon {
+  top: -18px;
+  background: none;
+}
+
+.leaflet-popup {
+  top: -88px;
+}
+
+@media (max-width: 768px) {
+  .leaflet-container {
+    width: 100vw;
+    margin-bottom: 10px;
+  }
+}

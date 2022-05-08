@@ -1,0 +1,56 @@
+{
+  "name": "task_2",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "",
+  "dependencies": {
+    "@devbookhq/splitter": "^1.3.2",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.2.0",
+    "@testing-library/user-event": "^14.1.1",
+    "antd": "^4.20.2",
+    "gh-pages": "^3.2.3",
+    "leaflet": "^1.8.0",
+    "leaflet-routing-machine": "^3.2.12",
+    "randomcolor": "^0.6.2",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-leaflet": "^4.0.0",
+    "react-redux": "^8.0.1",
+    "react-scripts": "5.0.1",
+    "redux": "^4.2.0",
+    "sass": "^1.51.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "react-scripts build",
+    "deploy": "gh-pages -d build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "u": "npm-upgrade",
+    "p": "prettier --write **/*.{js,jsx,ts,tsx,json,html,css,scss}"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "npm-upgrade": "^3.1.0",
+    "prettier": "^2.6.2"
+  }
+}
