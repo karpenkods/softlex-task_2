@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/softlex-task_2/static/css/main.6a5f05c4.css",
-    "main.js": "/softlex-task_2/static/js/main.a705ca3f.js",
+    "main.css": "/softlex-task_2/static/css/main.8322f625.css",
+    "main.js": "/softlex-task_2/static/js/main.8baf57d6.js",
     "static/css/661.e61016e9.chunk.css": "/softlex-task_2/static/css/661.e61016e9.chunk.css",
     "static/js/661.6b58e9d9.chunk.js": "/softlex-task_2/static/js/661.6b58e9d9.chunk.js",
     "static/css/262.0b584275.chunk.css": "/softlex-task_2/static/css/262.0b584275.chunk.css",
     "static/js/262.df82b7f3.chunk.js": "/softlex-task_2/static/js/262.df82b7f3.chunk.js",
-    "static/css/835.0051e1a4.chunk.css": "/softlex-task_2/static/css/835.0051e1a4.chunk.css",
-    "static/js/835.fc3a3b8d.chunk.js": "/softlex-task_2/static/js/835.fc3a3b8d.chunk.js",
+    "static/css/835.5ef985ad.chunk.css": "/softlex-task_2/static/css/835.5ef985ad.chunk.css",
+    "static/js/835.3b432197.chunk.js": "/softlex-task_2/static/js/835.3b432197.chunk.js",
     "static/js/587.7096ec12.chunk.js": "/softlex-task_2/static/js/587.7096ec12.chunk.js",
     "static/media/roboto-v29-latin_cyrillic-700.woff": "/softlex-task_2/static/media/roboto-v29-latin_cyrillic-700.3b1c20c745bc4c9f1093.woff",
     "static/media/roboto-v29-latin_cyrillic-regular.woff": "/softlex-task_2/static/media/roboto-v29-latin_cyrillic-regular.90fc8764675b01c9cc05.woff",
@@ -15,18 +15,18 @@
     "static/media/roboto-v29-latin_cyrillic-regular.woff2": "/softlex-task_2/static/media/roboto-v29-latin_cyrillic-regular.91f689ac38236365183d.woff2",
     "static/media/softlex.svg": "/softlex-task_2/static/media/softlex.40765722fe3391f7895fea8b5f70ab57.svg",
     "index.html": "/softlex-task_2/index.html",
-    "main.6a5f05c4.css.map": "/softlex-task_2/static/css/main.6a5f05c4.css.map",
-    "main.a705ca3f.js.map": "/softlex-task_2/static/js/main.a705ca3f.js.map",
+    "main.8322f625.css.map": "/softlex-task_2/static/css/main.8322f625.css.map",
+    "main.8baf57d6.js.map": "/softlex-task_2/static/js/main.8baf57d6.js.map",
     "661.e61016e9.chunk.css.map": "/softlex-task_2/static/css/661.e61016e9.chunk.css.map",
     "661.6b58e9d9.chunk.js.map": "/softlex-task_2/static/js/661.6b58e9d9.chunk.js.map",
     "262.0b584275.chunk.css.map": "/softlex-task_2/static/css/262.0b584275.chunk.css.map",
     "262.df82b7f3.chunk.js.map": "/softlex-task_2/static/js/262.df82b7f3.chunk.js.map",
-    "835.0051e1a4.chunk.css.map": "/softlex-task_2/static/css/835.0051e1a4.chunk.css.map",
-    "835.fc3a3b8d.chunk.js.map": "/softlex-task_2/static/js/835.fc3a3b8d.chunk.js.map",
+    "835.5ef985ad.chunk.css.map": "/softlex-task_2/static/css/835.5ef985ad.chunk.css.map",
+    "835.3b432197.chunk.js.map": "/softlex-task_2/static/js/835.3b432197.chunk.js.map",
     "587.7096ec12.chunk.js.map": "/softlex-task_2/static/js/587.7096ec12.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a5f05c4.css",
-    "static/js/main.a705ca3f.js"
+    "static/css/main.8322f625.css",
+    "static/js/main.8baf57d6.js"
   ]
 }
